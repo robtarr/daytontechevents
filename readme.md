@@ -1,3 +1,8 @@
+## Getting Started
+
+  - `npm install`
+  - `coffee eventbrite.coffee`
+
 ## Event API
   - EventBrite
   - Meetup
